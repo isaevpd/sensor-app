@@ -12,7 +12,7 @@ djangorestframework==3.9.1
 djangorestframework-simplejwt==3.2.3
 idna==2.7
 kombu==4.2.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 pytz==2018.4
 redis==2.10.6
 requests==2.20.0
